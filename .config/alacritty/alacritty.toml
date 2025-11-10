@@ -1,0 +1,11 @@
+[general]
+import = [
+"/home/madeline/.config/alacritty/nord.toml",
+]
+
+
+[font]
+size = 7
+
+[window]
+opacity = 0.8
